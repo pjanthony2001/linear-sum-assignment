@@ -3,7 +3,7 @@ import numpy as np
 from scipy.optimize import linear_sum_assignment
 from itertools import accumulate 
 from bisect import bisect_left
-import matplotlib.pyplot as pltperenne
+import matplotlib.pyplot as plt
 
 FILE_PATH = "./MIG_final1.csv"
 START_IDX_DATA = 3
