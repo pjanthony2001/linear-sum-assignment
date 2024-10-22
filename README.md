@@ -3,7 +3,7 @@
 
 ## About the Project
 
-This project helps to solve an assignment problem that matches `n` people to `m` different classes, each class with their own number of places, given the rankings for the classes.
+This project helps to solve an assignment problem that matches `n` people to `m` different classes, each class with their own number of places, given the rankings for the classes. It uses the Hungarian Algorithm.
 
 ## Getting Started
 
