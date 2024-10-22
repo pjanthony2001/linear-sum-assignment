@@ -12,6 +12,10 @@ The input to the program is just a single CSV file, where each row represents a 
 - The number of places for each class
 - The weighting function for each ranking
 
+## Requirements
+- Python 
+- Scipy
+
 ## Roadmap
 
 - [x] Finish README
